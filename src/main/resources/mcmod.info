@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "forge",
+    "name": "Forge",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "FrostDelta123",
+      "JoakimAlt"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      ""
+    ]
+  }
+]
